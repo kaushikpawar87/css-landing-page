@@ -10,7 +10,7 @@
 .hero-container {
     background-color: #1F2937;
     color: white;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 header {
@@ -176,13 +176,7 @@ header {
 .footer {
     background-color: #1F2937;
     color: #E5E7EB;
-    padding: 50px;
+    padding: 20px;
     display: flex;
     justify-content: center;
-}
-
-.copyright {
-    width: 100px;
-    height: 100px;
-    background-color: transparent;
 }
